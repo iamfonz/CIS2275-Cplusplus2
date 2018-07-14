@@ -1,0 +1,126 @@
+***Original Sentences***
+1. The green ball went in the gutter.
+2. Black and yellow are the Steeler's colors.
+3. Red, white and blue are the colors in our flag.
+4. Carly is a brown dog.
+5. The moon is silver.
+6. The moon is silver.
+7. The moon is silver.
+8. The moon is silver.
+9. The moon is silver.
+10. The moon is silver.
+
+***Colors***		***Phrases***
+red			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+blue			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+green			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+yellow			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+black			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+white			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+brown			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+brown			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+brown			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+brown			expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+fast and agile
+fast and agile
+fast and agile
+
+***Swapped Phrases***
+1. The beautiful and rich ball went in the gutter.
+2. Glittery with diamonds and sunny and warm are the Steeler's colors.
+3. Expensive and elegant, massive and stupid and gigantic yet gentle are the colors in our flag.
+4. Carly is a fast and agile dog.
+
+1 color swaps in sentence 1.
+2 color swaps in sentence 2.
+3 color swaps in sentence 3.
+1 color swaps in sentence 4.
+
+In total, 10 sentences were swapped and 5 were analyzed.

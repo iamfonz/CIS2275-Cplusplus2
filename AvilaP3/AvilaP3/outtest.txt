@@ -1,0 +1,28 @@
+***Original Sentences***
+1. The green ball went in the gutter.
+2. Black and yellow are the Steeler's colors.
+3. Red, white and blue are the colors in our flag.
+4. Carly is a brown dog.
+5. The moon is silver.
+
+***Colors***		***Phrases***
+red			expensive and elegant
+blue			gigantic yet gentle
+green			beautiful and rich
+yellow			sunny and warm
+black			glittery with diamonds
+white			massive and stupid
+brown			fast and agile
+
+***Swapped Phrases***
+1. The beautiful and rich ball went in the gutter.
+2. Glittery with diamonds and sunny and warm are the Steeler's colors.
+3. Expensive and elegant, massive and stupid and gigantic yet gentle are the colors in our flag.
+4. Carly is a fast and agile dog.
+
+1 color swap in sentence 1.
+2 color swaps in sentence 2.
+3 color swaps in sentence 3.
+1 color swap in sentence 4.
+
+In total, 4 sentences were swapped and 5 were analyzed.
